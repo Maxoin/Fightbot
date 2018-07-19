@@ -13,7 +13,7 @@ bot.login ('NDUyNDM3MDM3MDEwOTExMjMz.DfQUWA.3Ot3diWDLOW_F--afM8lysQCcng');
 
 bot.on('message', message => {
 
-    if (message.content === "*esquive"){
+    if (message.content === "*e"){
         random();
         
         if (randnum == 1){
